@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftDux",
+        "repositoryURL": "https://github.com/StevenLambion/SwiftDux",
+        "state": {
+          "branch": null,
+          "revision": "3b0693d7c4bd5ee8d1cdcab86fbcbbc75ddd14a2",
+          "version": "2.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
